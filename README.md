@@ -1,8 +1,28 @@
 # WhiteSystemInfo
- Rainmeter Skin for Devloper&Gamer
  
+ ### Basic Information
+ Rainmeter Skin for Clear Desktop</br>
+ ! Incompletion: I'm preparing example.
  
- ## Skins in Example Image
+ ### Example
+ preaparing(っ °Д °;)っ
+ 
+ ### Customize Tip
+ 
+ 0 Skins are have below options. You can change in .ini file.</br>
+ This skins are very almost same with <b>illustro</b> skin.</br>
+ 
+ 1) Skin 0
+	
+	- TextEffect
+
+
+ 3) Skin 1
+ 
+
+ 
+ <!--
+ ### Skins in Example Image
  
 	1) Clear Text | redsaph
 
@@ -22,7 +42,7 @@ Setting file edit:</br>
 	Direction: -1 </br>
 A Dcok.ini file edit: low padding, icon size</br>
 
-	3) Waveline
+	3) Waveline | Eldog-02
 Setting:</br>
 	(Variables file)</br>
 	Fill=255,255,255,75</br>
@@ -35,3 +55,4 @@ Setting:</br>
 	AttackSpeed=50</br>
 	DecaySpeed=250</br>
 	Sensitivity=75</br>
+-->
