@@ -5,9 +5,14 @@
  there are information skin for system, disk, time, network.
  
  ### Example
- 0: Time0.ini, System0.ini, Disk0.ini, Network0.ini </br>
- ![image](https://user-images.githubusercontent.com/86394389/132462370-a65b4cab-4a79-4a97-8224-76bbf9c6810d.png) </br>
- 1: Time1.ini, System1.ini, Disk1.ini, Network1.ini </br>
+ *Skin0: Time0.ini, System0.ini, Disk0.ini, Network0.ini* </br>
+ It have transparent background and solid white text.</br>
+ 🔽🔽<b>Like This</b>🔽🔽</br>
+ ![image](https://user-images.githubusercontent.com/86394389/132462370-a65b4cab-4a79-4a97-8224-76bbf9c6810d.png) </br></br>
+ *Skin1: Time1.ini, System1.ini, Disk1.ini, Network1.ini* </br>
+ It have Background Color but, it isn't solid.</br>
+ If it's fontColor is same with background, it looks like transparent text.</br>
+ 🔽🔽<b>Like This</b>🔽🔽</br>
  ![image](https://user-images.githubusercontent.com/86394389/132463001-f13505ee-f442-4a53-a2b8-63ade12dd52f.png) </br>
  I used Font '[나눔손글씨 할아버지의나눔](https://clova.ai/handwriting/list.html#102)'.
 
@@ -16,14 +21,6 @@
  Skins have below customize options. You can change in .ini file.</br>
  This skins are very almost same with <b>illustro</b> skin.</br>
  
- 1) Skin 0
-	- FontColor 
-	- FontFace
-	- FontSize
-	- BarColor
-	- You can fix in [Variables]
-
- 2) Skin 1
  
 
  
