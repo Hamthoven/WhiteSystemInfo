@@ -8,8 +8,8 @@
  Each Skin have two choice, 0 and 1.</br>
  각각의 스킨은 0과 1 두 가지 중 선택합니다.</br>
  
- [Example 예시](#xample-예시)   
- [Customize Tip 맞춤설정 정보](Customize-Tip-맞춤설정-정보)   
+ [Example 예시](#example-예시)   
+ [Customize Tip 맞춤설정 정보](customize-tip-맞춤설정-정보)   
  
  
  ### Example 예시
