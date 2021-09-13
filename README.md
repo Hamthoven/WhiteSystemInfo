@@ -8,6 +8,10 @@
  Each Skin have two choice, 0 and 1.</br>
  각각의 스킨은 0과 1 두 가지 중 선택합니다.</br>
  
+ [Example 예시](#example-예시)   
+ [Customize Tip 맞춤설정 정보](customize-tip-맞춤설정-정보)   
+ 
+ 
  ### Example 예시
  - <b>*Skin0: Time0.ini, System0.ini, Disk0.ini, Network0.ini*</b> </br>
  It have transparent background and solid white text.</br>
@@ -56,7 +60,7 @@
  Bar 미터를 위한 것입니다. 바의 남은 부분에 해당하는 색의 변화를 볼 수 있습니다.
  	- SolidColor=255,255,255,15 (0,1: Disk, Network, System, Time)
  <!--
- ### Skins in Example Image
+ ### Skins in Example Image 예시 이미지의 다른 스킨들
  
 	1) Clear Text | redsaph
 
