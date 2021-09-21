@@ -8,14 +8,22 @@
  Each Skin have two choice, 0 and 1.</br>
  각각의 스킨은 0과 1 두 가지 중 선택합니다.</br>
  
+ <!---
+<img src = "https://user-images.githubusercontent.com/86394389/134133542-5cdf9111-a7cf-4d3b-8dff-3d31c0888c9d.png" width="60%" height="60%">
+⬆️ Music OFF | Music ON ⬇️
+<img src = "https://user-images.githubusercontent.com/86394389/134134785-b0f18748-93c6-4f51-8148-97fc22e21429.png" width="60%" height="60%">
+--->
+ This is how I used it. WhiteSystemInfo SKin is the text on the board.   
+ 제가 직접 활용한 바탕화면입니다. 메뉴판에 적힌 내용이 WhiteSystemInfo 스킨입니다.   
+ ![2021-09-21_16-42-03_1](https://user-images.githubusercontent.com/86394389/134132867-e3092680-5876-4f5a-b8db-3398e0636959.gif)
  
  I used Font '[나눔손글씨 할아버지의나눔](https://clova.ai/handwriting/list.html#102)'.   
  All icons by [Icons8](https://icons8.com/)
  
  ### Index 목차
- [Example 예시](#example-예시)   
- [Customize Tip 맞춤설정 정보](customize-tip-맞춤설정-정보)   
- 
+ Example 예시  
+ Customize Tip 맞춤설정 정보   
+ Skins With WSI Skin 함께 사용한 스킨들   
  
  ### Example 예시
  - <b>*Skin0: Time0.ini, System0.ini, Disk0.ini, Network0.ini*</b> </br>
@@ -64,8 +72,8 @@
  This is for skins have Bar Meter. You can see the difference in remained space color of Bar. </br>
  Bar 미터를 위한 것입니다. 바의 남은 부분에 해당하는 색의 변화를 볼 수 있습니다.
  	- SolidColor=255,255,255,15 (0,1: Disk, Network, System, Time)
- <!--
- ### Skins in Example Image 예시 이미지의 다른 스킨들
+ 
+ ### Skins With WSI Skin 함께 사용한 스킨들
  
 	1) Clear Text | redsaph
 
@@ -98,4 +106,6 @@ Setting:</br>
 	AttackSpeed=50</br>
 	DecaySpeed=250</br>
 	Sensitivity=75</br>
--->
+
+	4) TranslucentTaskbar 1.2 | arkenthera
+No changed
