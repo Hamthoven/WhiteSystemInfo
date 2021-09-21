@@ -8,8 +8,13 @@
  Each Skin have two choice, 0 and 1.</br>
  각각의 스킨은 0과 1 두 가지 중 선택합니다.</br>
  
+ 
+ I used Font '[나눔손글씨 할아버지의나눔](https://clova.ai/handwriting/list.html#102)'.   
+ All icons by [Icons8](https://icons8.com/)
+ 
+ ### Index 목차
  [Example 예시](#example-예시)   
- [Customize Tip 맞춤설정 정보](customize-Tip-맞춤설정-정보)   
+ [Customize Tip 맞춤설정 정보](customize-tip-맞춤설정-정보)   
  
  
  ### Example 예시
@@ -25,8 +30,7 @@
  만약 fontColor가 바탕화면 배경색과 같다면, 그건 투명한 텍스트인 것처럼 보일 겁니다.</br>
  🔽🔽<b>Like This 이렇게요!</b>🔽🔽</br>
  ![image](https://user-images.githubusercontent.com/86394389/132463001-f13505ee-f442-4a53-a2b8-63ade12dd52f.png) </br>
- I used Font '[나눔손글씨 할아버지의나눔](https://clova.ai/handwriting/list.html#102)'.
- Icons are [White Flat Taskbar Icons](https://www.deviantart.com/txusmetal4ever/art/White-Flat-Taskbar-Icons-692863969)
+ 
 
 ### Customize Tip 맞춤설정 정보
  
